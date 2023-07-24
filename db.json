@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Resandi",
+      "lastName": "Rehansa",
+      "fromAddress": "Gall",
+      "toAddress": "Matara",
+      "typeofGoods": "tedy",
+      "weight": "45",
+      "assignDriver": "yes",
+      "deliverDate": "14/07/2023",
+      "mobile": "0774112666",
+      "email": "resi@gmail.com"
+    },
+    {
+      "id": 2,
+      "firstName": "Tharaka",
+      "lastName": "Priyadsrahana",
+      "fromAddress": "gmapaha",
+      "toAddress": "colombo",
+      "typeofGoods": "computer",
+      "weight": "32",
+      "assignDriver": "yes",
+      "deliverDate": "12/07/2023",
+      "mobile": "0765400167",
+      "email": "tharaka@gmail.com"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Tharaka Priya",
+      "email": "tharaka@gmail.com",
+      "password": "admin",
+      "mobile": 774037997,
+      "id": 1
+    },
+    {
+      "fullname": "Tharaka Priyadarshana",
+      "email": "tharaka.ontime@gmail.com",
+      "password": "Artway@123",
+      "mobile": 756972705,
+      "id": 2
+    },
+    {
+      "fullname": "",
+      "email": "",
+      "password": "",
+      "mobile": "",
+      "id": 3
+    },
+    {
+      "fullname": "Dasun Shanaka",
+      "email": "dasun@gmail.com",
+      "password": "dasun@123",
+      "mobile": 723477777,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
